@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/shopping-app-backend.git
+git clone [https://github.com/your-username/shopping-app-backend.git](https://github.com/Imaryan08/Shopping-cart-app)
 cd shopping-app-backend
 ```
 
